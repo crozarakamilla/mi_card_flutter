@@ -1,3 +1,3 @@
 # Mi Card
 
-Firs Flutter app.
+First Flutter app.
